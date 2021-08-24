@@ -18,7 +18,7 @@ pytorch 3.7
 GPU and CPU
 
 
-##DataSet
+## DataSet
 |DataSet|nums_question|
 |:-:|:-:|  
 |assist2009 | 124|
@@ -29,7 +29,7 @@ GPU and CPU
 |synthetic|50|
 
 
-##Reference
+## Reference
 [https://github.com/dxywill/pytorch_dkvmn](https://github.com/dxywill/pytorch_dkvmn)  
 [https://github.com/jarviszhb/KnowledgeTracing](https://github.com/jarviszhb/KnowledgeTracing)  
 [https://github.com/chsong513/DeepKnowledgeTracing-DKT-Pytorch/tree/master/DKT](https://github.com/chsong513/DeepKnowledgeTracing-DKT-Pytorch/tree/master/DKT)
